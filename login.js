@@ -25,7 +25,7 @@ bntLogin.addEventListener("click", (e) => {
       );
       if (user) {
         alert("Login success");
-        window.location.href = "index.html";
+        window.location.href = "next.html";
       } else {
         alert("Login failed");
       }
