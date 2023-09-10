@@ -1,0 +1,128 @@
+{
+  "grades": [
+    {
+      "id": 0,
+      "sv": { "maSV": "pd01", "TenSV": "nguyễn văn mạnh", "gioiTinh": false },
+      "anhVan": 8.0,
+      "tinHoc": 9.0,
+      "gdtc": 10.0,
+      "sinh": 7.0,
+      "tin": 6.0,
+      "congNghe": 5.0,
+      "nguVan": 4.0,
+      "diaLy": 3.0,
+      "lichSu": 2.0,
+      "congDan": 1.0
+    },
+    {
+      "id": 0,
+      "sv": {
+        "maSV": "pd03",
+        "TenSV": "trương thị kiều trinh",
+        "gioiTinh": false
+      },
+      "anhVan": 10.0,
+      "tinHoc": 9.0,
+      "gdtc": 8.0,
+      "sinh": 9.0,
+      "tin": 8.0,
+      "congNghe": 7.0,
+      "nguVan": 6.0,
+      "diaLy": 8.0,
+      "lichSu": 10.0,
+      "congDan": 9.0
+    },
+    {
+      "id": 0,
+      "sv": {
+        "maSV": "pd04",
+        "TenSV": "nguyễn thị nhật mai",
+        "gioiTinh": false
+      },
+      "anhVan": 1.0,
+      "tinHoc": 2.0,
+      "gdtc": 1.0,
+      "sinh": 3.0,
+      "tin": 1.0,
+      "congNghe": 1.0,
+      "nguVan": 2.0,
+      "diaLy": 2.0,
+      "lichSu": 1.0,
+      "congDan": 1.0
+    },
+    {
+      "id": 0,
+      "sv": { "maSV": "pd05", "TenSV": "phùng bá cường", "gioiTinh": false },
+      "anhVan": 10.0,
+      "tinHoc": 9.0,
+      "gdtc": 10.0,
+      "sinh": 9.0,
+      "tin": 10.0,
+      "congNghe": 8.0,
+      "nguVan": 9.0,
+      "diaLy": 10.0,
+      "lichSu": 9.0,
+      "congDan": 8.0
+    },
+    {
+      "id": 0,
+      "sv": { "maSV": "pd06", "TenSV": "lý thị luyến", "gioiTinh": false },
+      "anhVan": 7.0,
+      "tinHoc": 7.0,
+      "gdtc": 7.0,
+      "sinh": 7.0,
+      "tin": 7.0,
+      "congNghe": 7.0,
+      "nguVan": 7.0,
+      "diaLy": 7.0,
+      "lichSu": 7.0,
+      "congDan": 7.0
+    },
+    {
+      "id": 0,
+      "sv": { "maSV": "pd07", "TenSV": "nguyễn phi hùng", "gioiTinh": false },
+      "anhVan": 6.0,
+      "tinHoc": 6.0,
+      "gdtc": 6.0,
+      "sinh": 6.0,
+      "tin": 6.0,
+      "congNghe": 6.0,
+      "nguVan": 6.0,
+      "diaLy": 6.0,
+      "lichSu": 6.0,
+      "congDan": 6.0
+    },
+    {
+      "id": 0,
+      "sv": { "maSV": "pd09", "TenSV": "đinh thanh quý", "gioiTinh": false },
+      "anhVan": 10.0,
+      "tinHoc": 10.0,
+      "gdtc": 10.0,
+      "sinh": 10.0,
+      "tin": 10.0,
+      "congNghe": 10.0,
+      "nguVan": 10.0,
+      "diaLy": 10.0,
+      "lichSu": 10.0,
+      "congDan": 10.0
+    },
+    {
+      "id": 0,
+      "sv": {
+        "maSV": "at180630",
+        "TenSV": "nguyen vsn hung",
+        "gioiTinh": false
+      },
+      "anhVan": 9.9,
+      "tinHoc": 2.0,
+      "gdtc": 2.0,
+      "sinh": 4.0,
+      "tin": 10.0,
+      "congNghe": 9.0,
+      "nguVan": 9.0,
+      "diaLy": 9.0,
+      "lichSu": 9.0,
+      "congDan": 9.0
+    }
+  ]
+}
